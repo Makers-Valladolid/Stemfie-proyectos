@@ -12,7 +12,7 @@
 Descripción         | Imagen         | Archivo         
 ------------- | ------------- | ------------- 
 Caja Bateria |![](Imagenes/cajabaterias.PNG) | [Caja Baterias](Archivos STL/caja baterias.stl)
-pata caminante |![](Stemfie_Motorizado/Carretilla/Imagenes/pata caminante.png) | [pata caminante](Archivos STL/pata caminante.stl)
+pata caminante |![](Stemfie_Motorizado/Carretilla/Imagenes/pata caminante.PNG) | [pata caminante](Archivos STL/pata caminante.stl)
 Motor DC TT L |![](Imagenes/Motor DC TT L.png) | [Motor DC TT L](Archivos STL/Motor DC TT L.stl)
 Motor DC TT R |![](Imagenes/Motor DC TT R.png) | [Motor DC TT R](Archivos STL/Motor DC TT R.stl)
 Beam STR ESS BU03x01x01 |![](Imagenes/Beam STR ESS BU03x01x01 - SPN-BEM-0040.png) | [Beam STR ESS BU03x01x01](Archivos STL/Beam STR ESS BU03x01x01 - SPN-BEM-0040.stl)
