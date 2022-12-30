@@ -1,6 +1,7 @@
 # Stemfie-proyectos
  proyectos realizados con piezas Semfie. https://www.stemfie.org/
-<img src="Stemfie_Motorizado/Imagenes/LogoSTEMFIE.jpg" width="100" />
+<img src="Stemfie_Motorizado/Imagenes/LogoSTEMFIE.jpg" width="100" />  
+<img src="Stemfie_Motorizado//Carretilla/Imagenes/pata caminante.png" width="100" />  
 
 
 
@@ -10,8 +11,8 @@
   
 Descripción         | Imagen         | Archivo         
 ------------- | ------------- | ------------- 
-Caja Bateria |![](Stemfie_Motorizado/Carretilla/Imagenes/CajaBateria.png) | [Caja Bateria](Stemfie_Motorizado/Carretilla/Archivos STL/caja baterias.stl)
-pata caminante |![](Imagenes/pata caminante.png) | [pata caminante](Archivos STL/pata caminante.stl)
+Caja Bateria |![](Imagenes/cajaBaterias.png) | [Caja Baterias](Archivos STL/caja baterias.stl)
+pata caminante |![](Stemfie_Motorizado/Carretilla/Imagenes/pata caminante.png) | [pata caminante](Archivos STL/pata caminante.stl)
 Motor DC TT L |![](Imagenes/Motor DC TT L.png) | [Motor DC TT L](Archivos STL/Motor DC TT L.stl)
 Motor DC TT R |![](Imagenes/Motor DC TT R.png) | [Motor DC TT R](Archivos STL/Motor DC TT R.stl)
 Beam STR ESS BU03x01x01 |![](Imagenes/Beam STR ESS BU03x01x01 - SPN-BEM-0040.png) | [Beam STR ESS BU03x01x01](Archivos STL/Beam STR ESS BU03x01x01 - SPN-BEM-0040.stl)
