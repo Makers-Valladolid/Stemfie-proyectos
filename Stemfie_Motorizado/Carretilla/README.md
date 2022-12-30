@@ -10,7 +10,7 @@
   
 Descripción         | Imagen         | Archivo         
 ------------- | ------------- | ------------- 
-Caja Bateria |![](Imagenes/CajaBateria.png) | [Caja Bateria](Archivos STL/caja baterias.stl)
+Caja Bateria |![](Stemfie_Motorizado/Carretilla/Imagenes/CajaBateria.png) | [Caja Bateria](Stemfie_Motorizado/Carretilla/Archivos STL/caja baterias.stl)
 pata caminante |![](Imagenes/pata caminante.png) | [pata caminante](Archivos STL/pata caminante.stl)
 Motor DC TT L |![](Imagenes/Motor DC TT L.png) | [Motor DC TT L](Archivos STL/Motor DC TT L.stl)
 Motor DC TT R |![](Imagenes/Motor DC TT R.png) | [Motor DC TT R](Archivos STL/Motor DC TT R.stl)
