@@ -1,6 +1,6 @@
 # Stemfie-proyectos
- proyectos realizados con piezas Semfie. https://www.stemfie.org/
-<img src="Stemfie_Motorizado/Imagenes/LogoSTEMFIE.jpg" width="100" />  
+ proyectos realizados con piezas Semfie. https://www.stemfie.org/  
+<img src="/Imagenes/LogoSTEMFIE.jpg" width="100" />  
 <img src="Stemfie_Motorizado//Carretilla/Imagenes/pata caminante.png" width="100" />  
 
 
