@@ -1,7 +1,7 @@
 # Stemfie-proyectos
  proyectos realizados con piezas Semfie. https://www.stemfie.org/  
 <img src="Imagenes/LogoSTEMFIE.png" width="300" />  
-<img src="Stemfie_Motorizado//Carretilla/Imagenes/pata caminante.png" width="100" />  
+<img src="Stemfie_Motorizado/Carretilla/Imagenes/pata caminante.png" width="100" />  
 
 
 
@@ -11,7 +11,7 @@
   
 Descripción         | Imagen         | Archivo         
 ------------- | ------------- | ------------- 
-Caja Bateria |![](Imagenes/cajabaterias.png) | [Caja Baterias](Archivos STL/caja baterias.stl)
+Caja Bateria |![](Stemfie_Motorizado/Carretilla/Imagenes/LogoSTEMFIE.png) | [Caja Baterias](Archivos STL/caja baterias.stl)
 pata caminante |![](Stemfie_Motorizado/Carretilla/Imagenes/pata caminante.png) | [pata caminante](Archivos STL/pata caminante.stl)
 Motor DC TT L |![](Imagenes/Motor DC TT L.png) | [Motor DC TT L](Archivos STL/Motor DC TT L.stl)
 Motor DC TT R |![](Imagenes/Motor DC TT R.png) | [Motor DC TT R](Archivos STL/Motor DC TT R.stl)
