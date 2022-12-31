@@ -1,3 +1,11 @@
+#ESTE PROYECTO ES UNA ADAPTACION DEL DE STEM Inventions  
+REALIZADO EN CORTE LASER.
+
+PODEIS VER EN https://www.youtube.com/watch?v=TDdahxxYM7Q
+
+
+
+
 # Stemfie-proyectos
  proyectos realizados con piezas Semfie. https://www.stemfie.org/  
   
