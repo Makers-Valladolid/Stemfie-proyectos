@@ -9,7 +9,7 @@
   
 Stemfie_Motorizado        | We_do_With_Stemfie              
 ------------- | ------------- 
-![](Stemfie_Motorizado/Carretilla/Imagenes/Portada_Carretilla.jpg) |
+![](Stemfie_Motorizado/Carretilla/Imagenes/Portada_Carretilla.jpg) |![](We_do_With_Stemfie/Proyecto_Molino/Imagenes/Portada_Molino.jpg)
 
 
 
