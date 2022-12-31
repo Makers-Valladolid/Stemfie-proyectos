@@ -38,7 +38,7 @@ Pin CL RHD BU03.50 - SPN-PIN-0054)|![](Imagenes/PIN-0062.PNG) | [Pin CL RHD BU03
 # MONTAJE
 
 
-<img src="Imagenes/Mod_Patas.jpg" width="600" /> <img src="Imagenes/Mod_Carro_Abajo.jpg" width="600" />  
+<img src="Imagenes/Mod_Patas.jpg" width="400" /> <img src="Imagenes/Mod_Carro_Abajo.jpg" width="400" />  
 
 <img src="Imagenes/Mod_Carro_lat.jpg" width="600" />  
 <img src="Imagenes/Mod_Final.jpg" width="900" />  
