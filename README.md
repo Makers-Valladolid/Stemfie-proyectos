@@ -9,7 +9,7 @@
   
 Stemfie_Motorizado        | We_do_With_Stemfie              
 ------------- | ------------- 
-![](Imagenes/cajabaterias.PNG) |
+![](Stemfie_Motorizado/Carretilla/Imagenes/cajabaterias.PNG) |
 
 
 
