@@ -1,5 +1,7 @@
-## Stemfie-proyectos
+# Stemfie-proyectos
  proyectos realizados con piezas Semfie. https://www.stemfie.org/  
+  
+  
 <img src="Imagenes/LogoSTEMFIE.png" width="300" />  
  
 
@@ -7,7 +9,7 @@
 
 
 
-## Suports 3D
+# PIEZAS UTILIZADAS
   
 Descripción         | Imagen         | Archivo   | Cantidad         
 ------------- | ------------- | ------------- | ------------- 
@@ -31,3 +33,24 @@ Brace STR SLT SE ERR BU08x01x00.25x03 - SPN-BRC-0138|![](Imagenes/Brace5_3.PNG) 
 Pin CL RHD BU05.50 - SPN-PIN-0062|![](Imagenes/PIN-0062.PNG) | [Pin CL RHD BU05.50 - SPN-PIN-0062](Archivos_STL/PIN-0062.stl) | 1
 Pin_Motor_Carretilla|![](Imagenes/Pin_Motor_Carretilla.PNG) | [Pin_Motor_Carretilla](Archivos_STL/Pin_Motor_Carretilla.stl) | 2
 Pin CL RHD BU03.50 - SPN-PIN-0054)|![](Imagenes/PIN-0062.PNG) | [Pin CL RHD BU03.50 - SPN-PIN-0054](Archivos_STL/PIN-0054.stl) | 1
+
+
+# MONTAJE
+
+
+<img src="Imagenes/Mod_Patas.jpg" width="300" /> <img src="Imagenes/Mod_Carro_Abajo.jpg" width="300" />  
+
+<img src="Imagenes/Mod_Carro_lat.jpg" width="300" />  
+<img src="Imagenes/Mod_Final.jpg" width="300" />  
+
+
+
+
+
+
+
+
+
+
+
+
