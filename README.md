@@ -9,7 +9,7 @@
   
 Stemfie_Motorizado        | We_do_With_Stemfie              
 ------------- | ------------- 
-<img src="Stemfie_Motorizado/Carretilla/Imagenes/PIN-0094.PNG" width="300 /> |
+![](Imagenes/cajabaterias.PNG) |
 
 
 
