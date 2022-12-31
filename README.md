@@ -8,8 +8,8 @@
 ## Suports 3D
   
 Stemfie_Motorizado        | We_do_With_Stemfie              
-------------- | ------------- | ------------- | ------------- 
-![](Stemfie_Motorizado/Carretilla/Imagenes/Portada_Carretilla.jpg" width="300) |
+------------- | ------------- 
+<img src="Stemfie_Motorizado/Carretilla/Imagenes/Portada_Carretilla.jpg" width="300 /> |
 
 
 
