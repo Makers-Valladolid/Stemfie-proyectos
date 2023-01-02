@@ -10,7 +10,7 @@
   
 Carretilla        | Grillo            
 ------------- | ------------- 
-![](Carretilla/Imagenes/Portada_Carretilla.jpg) | ![](Carretilla/Imagenes/Conjunto_3.jpg)
+![](Carretilla/Imagenes/Portada_Carretilla.jpg) | ![](Grillo/Imagenes/Conjunto_3.jpg)
 
 
 
