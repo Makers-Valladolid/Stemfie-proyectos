@@ -3,7 +3,7 @@
 ESTE PROYECTO ES UNA ADAPTACION DEL REALIZADO POR Carlos Marin
 PODEIS VER EN     https://www.thingiverse.com/thing:4869687
 
-<img src="Imagenes/grillo.JPG" width="300" />  
+<img src="Imagenes/grillo.jpg" width="300" />  
 
 
 # Stemfie-proyectos
@@ -40,7 +40,7 @@ Pin_Motor |![](Imagenes/Pin_Motor.PNG) | [Pin_Motor](Archivos_STL/Pin_Motor.stl)
 # MONTAJE
 
 
-<img src="Imagenes/Cuerpo_1.JPG" width="400" /> <img src="Imagenes/Cuerpo_2.JPG" width="400" />  <img src="Imagenes/Cuerpo_3.JPG" width="400" />
+<img src="Imagenes/Cuerpo_1.jpg" width="400" /> <img src="Imagenes/Cuerpo_2.jpg" width="400" />  <img src="Imagenes/Cuerpo_3.jpg" width="400" />
 
-<img src="Imagenes/Conjunto_1.JPG" width="500" />  <img src="Imagenes/Conjunto_2.JPG" width="500" />  
-<img src="Imagenes/Conjunto_3.JPG" width="1100" />  
+<img src="Imagenes/Conjunto_1.jpg" width="500" />  <img src="Imagenes/Conjunto_2.jpg" width="500" />  
+<img src="Imagenes/Conjunto_3.jpg" width="1100" />  
