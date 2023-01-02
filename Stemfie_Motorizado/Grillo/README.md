@@ -40,7 +40,7 @@ Pin_Motor |![](Imagenes/Pin_Motor.PNG) | [Pin_Motor](Archivos_STL/Pin_Motor.stl)
 # MONTAJE
 
 
-<img src="Imagenes/Cuerpo_1.jpg" width="400" /> <img src="Imagenes/Cuerpo_2.jpg" width="400" />  <img src="Imagenes/Cuerpo_3.jpg" width="400" />
-
+<img src="Imagenes/Cuerpo_1.jpg" width="400" />    <img src="Imagenes/Cuerpo_3.jpg" width="400" />
+<img src="Imagenes/Cuerpo_2.jpg" width="400" />  
 <img src="Imagenes/Conjunto_1.jpg" width="500" />  <img src="Imagenes/Conjunto_2.jpg" width="500" />  
 <img src="Imagenes/Conjunto_3.jpg" width="1100" />  
