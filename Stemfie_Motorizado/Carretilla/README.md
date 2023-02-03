@@ -43,7 +43,7 @@ Pin CL RHD BU05.50 - SPN-PIN-0062|![](Imagenes/PIN-0062.PNG) | [Pin CL RHD BU05.
 Pin_Motor_Carretilla|![](Imagenes/Pin_Motor_Carretilla.PNG) | [Pin_Motor_Carretilla](Archivos_STL/Pin_Motor_Carretilla.stl) | 2
 Pin CL RHD BU03.50 - SPN-PIN-0054)|![](Imagenes/PIN-0062.PNG) | [Pin CL RHD BU03.50 - SPN-PIN-0054](Archivos_STL/PIN-0054.stl) | 1
 
-Portabaterias 2 AA con interruptor 
+# Portabaterias 2 AA con interruptor 
 
 # MODIFICACION T EN RUEDAS por Jordi Mayne
   
@@ -52,11 +52,11 @@ Descripción         | Imagen         | Archivo   | Cantidad
 Rueda sin agujeros Free |![](Imagenes/Wheel_Free.PNG) | [Ruedas](Archivos_STL/Wheel_Free.stl) | 2
 Rueda sin agujeros Fixed NO USADAS |![](Imagenes/Wheel_Fixed.PNG) | [Ruedas](Archivos_STL/Wheel_Fixed.stl) | 0
 Pin CL RHD BU03.75 - SPN-PIN-0055)|![](Imagenes/PIN-0062.PNG) | [Pin CL RHD BU03.75 - SPN-PIN-0055](Archivos_STL/PIN-0055.stl) | 1
-
+Beam TSH SYM ESS BU03x04x01 - SPN-BEM-1002|![](Imagenes/T_Ruedas.PNG) | [Beam TSH SYM ESS BU03x04x01 - SPN-BEM-1002](Archivos_STL/T_Ruedas.stl) | 1
 
 # MONTAJE
 
-
+<img src="Imagenes/montaje_motor.jpg" width="500" /> <img src="Imagenes/Piezas.jpg" width="500" />
 <img src="Imagenes/Mod_Patas.jpg" width="500" /> <img src="Imagenes/Mod_Carro_Abajo.jpg" width="500" />  
 
 <img src="Imagenes/Mod_Carro_lat.jpg" width="600" />  
