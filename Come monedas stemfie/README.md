@@ -2,7 +2,8 @@
 
 ESTE PROYECTO ES UNA ADAPTACION DEL COMPRADO EN Aliexpres
 
-PODEIS VER EN     https://es.aliexpress.com/item/1005006649112925.html?spm=a2g0o.order_list.order_list_main.84.4901194dXhFraZ&gatewayAdapt=glo2esp
+PODEIS VER EN     
+https://es.aliexpress.com/item/1005006649112925.html?spm=a2g0o.order_list.order_list_main.84.4901194dXhFraZ&gatewayAdapt=glo2esp
 
 
 
@@ -11,7 +12,8 @@ PODEIS VER EN     https://es.aliexpress.com/item/1005006649112925.html?spm=a2g0o
  proyectos realizados con piezas Semfie. https://www.stemfie.org/  
   
   
-<img src="Imagenes/LogoSTEMFIE.png" width="300" />  
+<img src="Carretilla/Imagenes/LogoSTEMFIE.png" width="300" /> |         |   <img src="Carretilla/Imagenes/LogoV9.jpg" width="100" />    
+------------- | ------------- | ------------- 
  
 
 
