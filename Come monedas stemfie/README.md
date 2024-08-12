@@ -24,11 +24,11 @@ https://es.aliexpress.com/item/1005006649112925.html?spm=a2g0o.order_list.order_
   
 Descripción         | Imagen         | Archivo   | Cantidad         
 ------------- | ------------- | ------------- | ------------- 
-Caja Bateria |![](Imagenes/cajabaterias.PNG) | [Caja Baterias](Archivos_STL/cajabaterias.stl) | 1
-base 6x3     |![](Imagenes/base 6x3.PNG)     | [base 6x3](Archivos_STL/base 6x3.stl) | 1
-base 6x4 |   ![](Imagenes/base 6x4.PNG) | [base 6x4](Archivos_STL/base 6x4.stl) | 1
-base 6x6 |   ![](Imagenes/base 6x6.PNG) | [base 6x6](Archivos_STL/base 6x6.stl) | 1
-base 6x9 |   ![](Imagenes/base 6x9.PNG) | [base 6x9](Archivos_STL/base 6x9.stl) | 1
+Caja Bateria                       |![](Imagenes/cajabaterias.PNG) | [Caja Baterias](Archivos_STL/cajabaterias.stl) | 1
+base 6x3                           |![](Imagenes/base_6x3.PNG)     | [base 6x3](Archivos_STL/base_6x3.stl) | 1
+base 6x4                           |   ![](Imagenes/base_6x4.PNG)      | [base 6x4](Archivos_STL/base_6x4.stl) | 1
+base 6x6                           |   ![](Imagenes/base_6x6.PNG)      | [base 6x6](Archivos_STL/base_6x6.stl) | 1
+base 6x9                           |   ![](Imagenes/base_6x9.PNG)      | [base 6x9](Archivos_STL/base_6x9.stl) | 1
 
 
 
