@@ -12,7 +12,7 @@ https://es.aliexpress.com/item/1005006649112925.html?spm=a2g0o.order_list.order_
  proyectos realizados con piezas Semfie. https://www.stemfie.org/  
   
   
-<img src="Carretilla/Imagenes/LogoSTEMFIE.png" width="300" /> |         |   <img src="Carretilla/Imagenes/LogoV9.jpg" width="100" />    
+<img src="Imagenes/LogoSTEMFIE.png" width="300" /> |         |   <img src="Imagenes/LogoV9.jpg" width="100" />    
 ------------- | ------------- | ------------- 
  
 
@@ -24,10 +24,10 @@ https://es.aliexpress.com/item/1005006649112925.html?spm=a2g0o.order_list.order_
   
 Descripción         | Imagen         | Archivo   | Cantidad         
 ------------- | ------------- | ------------- | ------------- 
-base 6x3 |![](Imagenes/base 6x3.PNG  ) | [base 6x3](Archivos_STL/base 6x3.stl) | 1
-base 6x4 |![](Imagenes/base 6x4.PNG  ) | [base 6x4](Archivos_STL/base 6x4.stl) | 1
-base 6x6 |![](Imagenes/base 6x6.PNG  ) | [base 6x6](Archivos_STL/base 6x6.stl) | 1
-base 6x9 |![](Imagenes/base 6x9.PNG  ) | [base 6x9](Archivos_STL/base 6x9.stl) | 1
+base 6x3 |   ![](Imagenes/base 6x3.PNG) | [base 6x3](Archivos_STL/base 6x3.stl) | 1
+base 6x4 |   ![](Imagenes/base 6x4.PNG) | [base 6x4](Archivos_STL/base 6x4.stl) | 1
+base 6x6 |   ![](Imagenes/base 6x6.PNG) | [base 6x6](Archivos_STL/base 6x6.stl) | 1
+base 6x9 |   ![](Imagenes/base 6x9.PNG) | [base 6x9](Archivos_STL/base 6x9.stl) | 1
 
 
 
