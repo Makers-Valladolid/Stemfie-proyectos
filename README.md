@@ -11,7 +11,7 @@
 
 ## NUEVOS MODELOS 
 
-
+<img src="Come monedas stemfie/Imagenes/Foto_Juntas.PNG" width="1300" />
 
 ## MODELOS REALIZADOS
   
